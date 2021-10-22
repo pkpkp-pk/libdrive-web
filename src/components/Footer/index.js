@@ -32,10 +32,10 @@ class Footer extends Component {
           </a>
           <a
             className="no_decoration_link footer__text"
-            href="https://eliasbenb.cf/"
+            href="https://pmny.in/3IEUcg925k6H"
             target="_blank"
           >
-            {`© 2021 Copyright: Elias Benbourenane - v${version}`}
+            {`support us @watchlistonfire | developer - Elias Benbourenane - v${version}`}
           </a>
         </footer>
       </div>
